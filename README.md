@@ -1,12 +1,11 @@
 # Keyper
 Author: Brian Newsom
 
-The days of API keys in environment variables are over.
+The days of having to store all of your API keys in environment variables are over.
 
-Keyper is a node module that simplifies storage of API keys.  You will have a single 'keyper key' which will give you access to 
-all of the API keys you care about.
+Keyper is a node module that simplifies storage of API keys.  You will have a single 'keyper key' which will give you access to all of the API keys you care about.
 
-This module contains both the server and the access library.  These will likely be separated soon.
+This module is greate for Hackathons, rapid prototypes, etc. but should not be trusted for high security applications.
 
 ## Usage
 
