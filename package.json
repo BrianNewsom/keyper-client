@@ -1,0 +1,30 @@
+{
+  "name": "keyper-client",
+  "version": "0.0.1",
+  "description": "Simple storage for your API keys.",
+  "main": "keyper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/briannewsom/keyper-client.git"
+  },
+  "keywords": [
+    "API",
+    "key",
+    "secret",
+    "storage"
+  ],
+  "author": "Brian Newsom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briannewsom/keyper-client/issues"
+  },
+  "homepage": "https://github.com/briannewsom/keyper-client",
+  "dependencies": {
+    "restler": "^3.3.0",
+    "underscore": "^1.8.3",
+    "uuid": "^2.0.1"
+  }
+}
